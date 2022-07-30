@@ -145,7 +145,7 @@ def longextend(H_m,m1,m2,secret_size=0):
 
 ## C.代码运行全过程截图
 
-​		![1659117920252](C:/Users/%E5%B0%8F%E8%8A%B1%E5%AE%B6%E7%9A%84%E7%B2%BD%E5%AD%90/AppData/Roaming/Typora/typora-user-images/1659117920252.png)
+​		![1659117920252](https://cdn.jsdelivr.net/gh/RuizeZhou/images/1659117920252.png)
 
 ​	第一行输出输入m1后得到的加密值。接下来四行是在比较真实secret长度和代码运行得到的长度。最后比对长度扩展攻击代码得到的（消息，标签值）和带入sm3算法得到的标签值，得到相等True。
 
