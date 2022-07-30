@@ -48,8 +48,6 @@ Project: forge a signature to pretend that you are Satoshi
 
 Project: send a tx on Bitcoin testnet, and parse the tx data down to every bit, better write script yourself
 
-Project: forge a signature to pretend that you are Satoshi
-
 Project: research report on MPT
 
 Project: Find a key with hash value “sdu_cst_20220610” under a message composed of your name followed by your student ID. For example, “San Zhan 202000460001”.
